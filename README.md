@@ -1,0 +1,2 @@
+# LivetTraining
+Livetを使ったWPFアプリ開発の練習リポジトリ
